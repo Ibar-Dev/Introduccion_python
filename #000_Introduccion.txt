@@ -1,0 +1,18 @@
+
+Introduccion a Python con Ibar Vivas
+
+Python es un lenguaje de programación de alto nivel, interpretado y de propósito general. Fue creado por Guido van Rossum y lanzado por primera vez en 1991, aunque la idea nace en 1989. 
+Es conocido por su sintaxis simple y legible, lo que lo hace ideal para principiantes, pero también es potente y versátil, lo que lo convierte en una opción popular para una amplia gama de aplicaciones, 
+desde desarrollo web hasta análisis de datos y aprendizaje automático.
+
+Algunas características importantes de Python incluyen:
+
+Sintaxis legible: Python utiliza una sintaxis limpia y fácil de entender, lo que facilita la escritura y lectura del código.
+
+Interpretado: Python es un lenguaje interpretado, lo que significa que el código se ejecuta línea por línea por un intérprete en lugar de compilar todo el programa antes de ejecutarlo. 
+Esto hace que el desarrollo y la depuración sean más rápidos.
+
+Multiparadigma: Python soporta múltiples paradigmas de programación, incluyendo programación orientada a objetos, programación imperativa y programación funcional.
+
+Amplia biblioteca estándar: Python viene con una biblioteca estándar extensa que proporciona módulos y funciones para realizar muchas tareas comunes, como manipulación de archivos, 
+networking, acceso a bases de datos, procesamiento de texto, y mucho más.
